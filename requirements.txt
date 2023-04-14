@@ -1,0 +1,13 @@
+pandas
+streamlit
+numpy
+scikit-learn
+joblib
+matplotlib
+html5lib
+lxml
+bs4
+wordcloud
+tensorflow
+gensim
+nltk
